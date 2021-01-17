@@ -1,0 +1,24 @@
+{
+  "name": "@bugsounet/alexa",
+  "version": "0.1.0",
+  "description": "node alexa library",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "alexa",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bugsounet/alexa"
+  },
+  "author": "bugsounet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugsounet/alexa/issues"
+  },
+  "homepage": "https://github.com/bugsounet/alexa",
+  "dependencies": {
+    "xhr2": "^0.2.0"
+  }
+}
